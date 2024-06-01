@@ -17,7 +17,7 @@ namespace Numbers_Match
         public Form1()
         {
             InitializeComponent();
-            int x = 0;
+          
         }
 
         //the counter is To decide where to store the button.
