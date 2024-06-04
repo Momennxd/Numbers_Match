@@ -20,7 +20,7 @@ namespace Numbers_Match
           
         }
 
-        //the counter is To decide where to store the button.
+        //the counter is To decide where to store the button......
         byte _counter = 0;
         int _Score = 0;
         int _CurrentTime = 0;
